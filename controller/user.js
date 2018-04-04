@@ -1,4 +1,3 @@
-
 exports.createUser = function (req, res) {
     //생성되는 코드 디비로 입력부분
     res.send("유저가 생성되었습니다.")
